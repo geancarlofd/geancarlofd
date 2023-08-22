@@ -1,5 +1,5 @@
 ### Hello, there! 😎
-![DeLoran](ddvn3zp-fa1e1739-7cd7-45d3-b707-f30fe9fd1e65.gif)
+<img src="ddvn3zp-fa1e1739-7cd7-45d3-b707-f30fe9fd1e65.gif" width="200">
 <!--
 **geancarlofd/geancarlofd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
